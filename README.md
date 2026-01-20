@@ -22,6 +22,7 @@ This project reflects our teamwork, planning and practical implementation.
 ## ⚙️ How to Run This Project Locally
 
 ### Step 1: Clone the Repository
+
 ```bash
 git clone <YOUR_GIT_URL>
 cd ML_Prototype_as_an_Solution
@@ -107,4 +108,3 @@ Thank you for checking out our project!
 If you like it, don’t forget to ⭐ star the repository.
 
 Feedback is always welcome 😊
-
