@@ -21,90 +21,87 @@ This project reflects our teamwork, planning and practical implementation.
 
 ## ⚙️ How to Run This Project Locally
 
-### Step 1: Clone the Repository
+Step 1: Clone the Repository
 
-```bash
-git clone <YOUR_GIT_URL>
-cd ML_Prototype_as_an_Solution
-npm install
-npm run dev
+    git clone <YOUR_GIT_URL>
+    cd ML_Prototype_as_an_Solution
+    npm install
+    npm run dev
+
+Open in browser:  
 http://localhost:5173
-🌟 Key Features
 
-Clean and modern UI
+---
 
-Fully responsive design
+## 🌟 Key Features
 
-Fast loading performance
+- Clean and modern UI  
+- Fully responsive design  
+- Fast loading performance  
+- Easy navigation  
+- Optimized code structure  
 
-Easy navigation
+---
 
-Optimized code structure
+## 🧠 What We Learned
 
-🧠 What We Learned
+- Team collaboration using Git & GitHub  
+- Writing clean and maintainable code  
+- Debugging real-time issues  
+- Working with modern UI libraries  
+- Time management during hackathon  
 
-Team collaboration using Git & GitHub
+---
 
-Writing clean and maintainable code
+## 🔮 Future Scope
 
-Debugging real-time issues
+- Add backend integration  
+- Implement authentication  
+- Improve UI/UX  
+- Add more features  
+- Cloud deployment  
 
-Working with modern UI libraries
+---
 
-Time management during hackathon
+## 👨‍💻 Team Members (5 Members)
 
-🔮 Future Scope
+- Siddiqui Tabish Javed  
+- Khan Rasil Irshad Ahmad  
+- Shaikh Umme Hani  
+- Chaudhary Tuba Sharif  
+- Ansari Iffat Anees  
 
-Add backend integration
+---
 
-Implement authentication
+## 📤 Deployment
 
-Improve UI/UX
+- Lovable  
+- Vercel  
+- Netlify  
 
-Add more features
+---
 
-Cloud deployment
+## 📁 Project Structure
 
-👨‍💻 Team Members (5 Members)
+ML_Prototype_as_an_Solution  
+│  
+├── src  
+│   ├── components  
+│   ├── pages  
+│   ├── hooks  
+│   ├── styles  
+│   └── main.tsx  
+│  
+├── public  
+├── package.json  
+├── vite.config.ts  
+└── README.md  
 
-Siddiqui Tabish Javed
+---
 
-Khan Rasil Irshad Ahmad
+## 🙌 Thank You
 
-Shaikh Umme Hani
-
-Chaudhary Tuba Sharif
-
-Ansari Iffat Anees
-
-📤 Deployment
-
-This project can be deployed using:
-
-Lovable
-
-Vercel
-
-Netlify
-
-📁 Project Structure
-ML_Prototype_as_an_Solution
-│
-├── src
-│   ├── components
-│   ├── pages
-│   ├── hooks
-│   ├── styles
-│   └── main.tsx
-│
-├── public
-├── package.json
-├── vite.config.ts
-└── README.md
-
-🙌 Thank You
-
-Thank you for checking out our project!
+Thank you for checking out our project!  
 If you like it, don’t forget to ⭐ star the repository.
 
 Feedback is always welcome 😊
